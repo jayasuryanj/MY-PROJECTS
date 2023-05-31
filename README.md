@@ -1,5 +1,5 @@
 # MY-PROJECTS
-SOFTWARE PROJECTS
+SOFTWARE PROJECTS :
 This code is an implementation of the classic Snake game using HTML5 canvas and JavaScript. Let's go through the code and explain its functionality:
 
 1. The code starts by getting a reference to the HTML canvas element with the id 'game' and obtaining a 2D rendering context for the canvas.
